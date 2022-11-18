@@ -23,7 +23,7 @@
 
 - 📫 How to reach me **yeboahd24@gmail.com**
 
-- 📄 Know about my experiences [https://dominic-blog.herokuapp.com/](https://dominic-blog.herokuapp.com/)
+- 📄 Know about my experiences [https://dominic.onrender.com/](https://dominic.onrender.com/)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
