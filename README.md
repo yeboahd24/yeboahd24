@@ -15,9 +15,9 @@
 
 - 🤝 I’m looking for help with [Panabios PKI](https://github.com/Koldchain1/PanaBIOS_RTI_PKI)
 
-- 👨‍💻 All of my projects are available at [https://dominic-blog.herokuapp.com/](https://dominic-blog.herokuapp.com/)
+- 👨‍💻 All of my projects are available at [https://dominic.onrender.com/](https://dominic.onrender.com/)
 
-- 📝 I regularly write articles on [https://dominic-blog.herokuapp.com/](https://dominic-blog.herokuapp.com/)
+- 📝 I regularly write articles on [https://dominic.onrender.com/](https://dominic.onrender.com/)
 
 - 💬 Ask me about **Python, Django**
 
